@@ -1,0 +1,35 @@
+{
+	"authHost": "UEC",
+	"authEndpoint": "/broadcasting/auth",
+	"clients": [
+		{
+			"appId": "449938b5606b9a04",
+			"key": "4a304f47645bb78951b2d9c7489e3589"
+		}
+	],
+	"database": "redis",
+	"databaseConfig": {
+		"redis": {
+			"port":3001,
+			"host":"redis.app.dev"
+		},
+		"sqlite": {
+			"databasePath": "/database/laravel-echo-server.sqlite"
+		}
+	},
+	"devMode": true,
+	"host": null,
+	"port": "6001",
+	"protocol": "http",
+	"socketio": {},
+	"sslCertPath": "",
+	"sslKeyPath": "",
+	"sslCertChainPath": "",
+	"sslPassphrase": "",
+	"apiOriginAllow": {
+		"allowCors": false,
+		"allowOrigin": "",
+		"allowMethods": "",
+		"allowHeaders": ""
+	}
+}

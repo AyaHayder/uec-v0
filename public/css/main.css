@@ -1,0 +1,152 @@
+body{
+    background-color: #242729;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus,
+.navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus,
+.dropdown .dropdown-menu > li > a:hover, .dropdown .dropdown-menu > li > a:focus,
+.dropdown-menu > li > a:hover,label,h1,h2,h3
+{
+    color: #00e699; !important;
+}
+
+.btn:hover, .btn-default:hover, .btn:focus, .btn-default:focus, .btn:active, .btn-default:active {
+    border-color: #00e699; !important;
+    color:#00e699 ;!important;
+    background-color:#000; !important
+}
+
+.btn:disabled, .btn-default:disabled, .input-group-addon{
+    color:#00e699 ;
+    background-color:#000 ;
+}
+
+input[type="text"] {
+    width: 100px;
+}
+
+#profileIcon
+{
+    padding:3%;
+    height: 45px;
+    width: 45px;
+    background-color:#999999;
+}
+
+td{
+    padding:5%;
+}
+
+sidebar-brand{
+    font-size: larger;
+}
+
+.navbar-inverse{
+    background-color: black;
+}
+
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active >
+a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
+    color: white; /*BACKGROUND color for active*/
+    background-color: #00e699;
+}
+
+.dropdown-menu{
+background-color: #999;
+    color:#9d9d9d;
+}
+#profilePic{
+    margin-bottom:0px;
+    height:120px;
+    width: 120px;
+    background-color: #F9F9F9;
+}
+
+.someSpace{
+    margin-top: 10px;
+    margin-bottom:10px;
+    padding-top: 5px;
+    padding-bottom:5px;
+}
+
+a,p{
+    color: #000;
+}
+
+.blackCol{
+    background-color: #000;
+}
+
+h4,h5,h6{
+    color: #999;
+}
+
+.well{
+    background-color: #000;
+    border: none;
+}
+.well>li>a:hover{
+    color: #fff;
+    background-color: #00e699;
+}
+
+.btn-primary{
+    color: #fff;
+    text-decoration: none;
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+
+#sliderPhoto{
+    height:500px;
+    width:1000px;
+}
+
+p{
+    color:#F9F9F9;
+}
+.badge{
+    background-color: #00e699;
+}
+
+.panel-heading h1{
+    font-weight: bold;
+}
+
+#serviceIcon{
+    height:160px;
+    width:180px;
+    margin-left: 25px;
+}
+
+#activityPhoto{
+    height:500px;
+    width:800px;
+}
+
+.gray{
+    color:#999;
+}
+
+#partnerLogo{
+
+}
+
+#edit:hover{
+    text-decoration: none;
+    color: #00e699;
+}
+
+#edit:focus{
+    text-decoration: none;
+    color: #00e699;
+}
+
+
+
+
+
+
+
+
+
